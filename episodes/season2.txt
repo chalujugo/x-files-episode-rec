@@ -1,0 +1,25 @@
+25	1	"Little Green Men"double-dagger	David Nutter	Glen Morgan & James Wong	September 16, 1994	2X01	16.1
+26	2	"The Host"	Daniel Sackheim	Chris Carter	September 23, 1994	2X02	15.9
+27	3	"Blood"	David Nutter	Story: Darin Morgan	September 30, 1994	2X03	14.8
+28	4	"Sleepless"	Rob Bowman	Howard Gordon	October 7, 1994	2X04	13.4
+MSR 29	5	"Duane Barry"double-dagger	Chris Carter	October 14, 1994	2X05	13.9
+30	6	"Ascension"double-dagger	Michael Lange	Paul Brown	October 21, 1994	2X06	15.5
+31	7	"3"	David Nutter	Chris Ruppenthal and Glen Morgan & James Wong	November 4, 1994	2X07	15.0
+MSR 32	8	"One Breath"double-dagger	R.W. Goodwin	Glen Morgan & James Wong	November 11, 1994	2X08	15.3
+33	9	"Firewalker"	David Nutter	Howard Gordon	November 18, 1994	2X09	15.2
+34	10	"Red Museum"double-dagger	Win Phelps	Chris Carter	December 9, 1994	2X10	16.1
+35	11	"Excelsis Dei"	Stephen Surjik	Paul Brown	December 16, 1994	2X11	14.2
+36	12	"Aubrey"	Rob Bowman	Sara B. Charno	January 6, 1995	2X12	16.2
+MSR 37	13	"Irresistible"	David Nutter	Chris Carter	January 13, 1995	2X13	14.7
+38	14	"Die Hand Die Verletzt"	Kim Manners	Glen Morgan & James Wong	January 27, 1995	2X14	17.7
+39	15	"Fresh Bones"	Rob Bowman	Howard Gordon	February 3, 1995	2X15	17.8
+40	16	"Colony"double-dagger	Nick Marck	Story: David Duchovny & Chris Carter	February 10, 1995	2X16	15.9
+MSR 41	17	"End Game"double-dagger	Rob Bowman	Frank Spotnitz	February 17, 1995	2X17	17.5
+42	18	"Fearful Symmetry"	James Whitmore, Jr.	Steve DeJarnatt	February 24, 1995	2X18	16.5
+43	19	"Dod Kalm"	Rob Bowman	Story: Howard Gordon	March 10, 1995	2X19	17.1
+FUNNY 44	20	"Humbug"	Kim Manners	Darin Morgan	March 31, 1995	2X20	15.7
+45	21	"The Calusari"	Michael Vejar	Sara B. Chorno	April 14, 1995	2X21	12.9
+46	22	"F. Emasculata"	Rob Bowman	Chris Carter & Howard Gordon	April 28, 1995	2X22	14.0
+47	23	"Soft Light"	James Contner	Vince Gilligan	May 5, 1995	2X23	12.9
+48	24	"Our Town"	Rob Bowman	Frank Spotnitz	May 12, 1995	2X24	14.5
+MSR 49	25	"Anasazi"double-dagger	R. W. Goodwin	Story: David Duchovny & Chris Carter	May 19, 1995	2X25	16.6
